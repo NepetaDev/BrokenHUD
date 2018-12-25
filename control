@@ -1,0 +1,9 @@
+Package: me.nepeta.brokenhud
+Name: BrokenHUD
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Makes volume HUD look broken on purpose.
+Maintainer: Nepeta
+Author: Nepeta
+Section: Tweaks
